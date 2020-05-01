@@ -1,1 +1,0 @@
-Futuro fichero de pruebas
