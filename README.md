@@ -9,4 +9,4 @@ Esto es lo ultimo en remoto antes del segundo rebase
 
 Esto es lo ultimo en remoto antes del cambio en local
 
-Me da que se va a liar
+Buscamos el conflicto y no hay quien pueda evitarlo
